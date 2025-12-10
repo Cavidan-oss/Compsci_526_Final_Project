@@ -6,7 +6,7 @@ output:
 
 # Scraping Settings
 scraping:
-  start_year: 2020  # From which year should data be retrieved
+  start_year: 2018  # From which year should data be retrieved
   start_month: 1    # From which month in start_year
   max_workers: 12   # Number of parallel downloads
   retry_attempts: 3 # Number of retry attempts on errors
