@@ -33,7 +33,6 @@ ENV/
 
 # Project specific
 .cache/
-data/
 *.log
 *.csv
 *.parquet
