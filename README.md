@@ -34,12 +34,6 @@ Key fields included:
 
 Challenges included coarse monetary ranges (e.g., 15k–50k) and disclosure lags (up to 45 days).
 
-Some of the datasets used in this project are included in the `data/` directory of this repository. However, several larger files could not be uploaded due to size limitations.
-
-To access **all datasets**, including the full raw and processed files used in our analysis, please visit the project’s DukeBox repository:
-
-https://duke.box.com/s/cqk2gkdklttnjj2z8c21ew84iuqw96aa
-
 
 ### **2. Corporate Insider Trades**
 Retrieved from **OpenInsider**, based on SEC Form 4 filings.  
@@ -57,6 +51,13 @@ Collected from **Yahoo! Finance** using public API tools.
 Includes daily OHLCV fields.
 
 Missing historical data for some tickers required filtering out incomplete stocks.
+
+
+Some of the datasets used in this project are included in the `data/` directory of this repository. However, several larger files could not be uploaded due to size limitations.
+
+To access **all datasets**, including the full raw and processed files used in our analysis, please visit the project’s DukeBox repository:
+
+https://duke.box.com/s/cqk2gkdklttnjj2z8c21ew84iuqw96aa
 
 ---
 
