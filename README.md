@@ -132,6 +132,40 @@ The next stage involves:
 
 ---
 
+## 🚀 How to Use This Project
+
+This repository includes the full pipeline for analyzing insider and congressional trading activity, along with a sample modeling notebook (`DecisionTreeClassifier1year.ipynb`). To ensure the workflow runs correctly, please follow the steps below.
+
+The modeling approach assumes that you have already completed **one** of the following:
+
+**Option A — Download Preprocessed Data**  
+Download all required preprocessed datasets from the project’s DukeBox repository and place them inside the `data/` directory:
+
+
+**Option B — Run the Full Preprocessing Pipeline**  
+If you prefer to regenerate the datasets from raw files, run the preprocessing scripts provided in the repository.  
+All generated outputs must be saved under:`data/` directory.
+
+Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then execute the notebook `DecisionTreeClassifier1year.ipynb` to explore the modeling framework.
+This notebook trains a simple decision-tree–based model to predict **1-year future stock drift** based on engineered features.
+
+The notebook will:
+
+- Load preprocessed insider and congressional trade data  
+- Merge datasets with historical market performance  
+- Prepare features and labels for modeling  
+- Train and evaluate a Decision Tree classifier  
+- Output model accuracy, feature importance, and prediction results  
+
+
+---
+
 ## 📚 Insights and Narrative
 
 Our findings show clear evidence that:
@@ -143,8 +177,6 @@ Our findings show clear evidence that:
 These insights motivate more sophisticated investment models built on structural features and insider behavior patterns.
 
 ---
-
-
 
 
 
