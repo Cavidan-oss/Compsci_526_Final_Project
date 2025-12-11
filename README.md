@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/License-Academic%20Use-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Status-Completed-success.svg" alt="Status">
+  <a href="https://duke.box.com/s/cqk2gkdklttnjj2z8c21ew84iuqw96aa">
   <img src="https://img.shields.io/badge/Data-DukeBox-blueviolet.svg" alt="Data Source">
-  <img src="https://img.shields.io/badge/Model-Decision%20Tree-yellow.svg" alt="Model">
+  </a>
 </p>
 
 This project investigates whether publicly disclosed trades made by **U.S. congressional members** and **corporate insiders** contain exploitable information that can be used to build profitable investment strategies. Using scraped disclosure data, historical stock prices, and naïve mirroring strategies, we evaluate whether insider transactions yield above-market returns, even when executed at *report-date* prices rather than the true trade date.
