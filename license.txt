@@ -1,0 +1,42 @@
+Academic License – Duke University Course Project
+
+Copyright (c) 2025
+Informed Investment from Congressional and Insider Trading Project Team
+Leonardo Biral, Katherine Dura, David Jiang, Javidan Karimli, and Ergi Spiro  
+Duke University, Durham, NC, USA
+
+Permission is hereby granted to students, instructors, and academic researchers
+to use, reproduce, and modify this software and associated documentation
+(the “Software”) for educational, instructional, and non-commercial research
+purposes, subject to the following conditions:
+
+1. Attribution  
+   Any use, distribution, or modification of the Software must include  
+   appropriate credit to the original authors and to Duke University.
+
+2. Non-Commercial Use  
+   The Software may not be used for commercial purposes, financial gain, or
+   deployment in commercial systems without prior written permission from the
+   authors and Duke University.
+
+3. No Warranty  
+   The Software is provided “AS IS”, without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement. In no event shall the
+   authors or copyright holders be liable for any claim, damages, or other
+   liability arising from the use of the Software.
+
+4. No Endorsement  
+   Use of the Software does not imply endorsement by Duke University or any
+   affiliated entity.
+
+5. Redistribution  
+   Redistribution of the Software or modified versions is permitted only for
+   educational and non-commercial research purposes and must include this
+   license in its entirety.
+
+Disclosure of Interests  
+The authors have no competing interests to declare that are relevant to the
+content of this article.
+
+By using the Software, you agree to the terms stated above.

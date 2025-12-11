@@ -1,6 +1,15 @@
 
 # Informed Investment from Congressional and Insider Trading
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/License-Academic%20Use-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Completed-success.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Data-DukeBox-blueviolet.svg" alt="Data Source">
+  <img src="https://img.shields.io/badge/Model-Decision%20Tree-yellow.svg" alt="Model">
+</p>
+
 This project investigates whether publicly disclosed trades made by **U.S. congressional members** and **corporate insiders** contain exploitable information that can be used to build profitable investment strategies. Using scraped disclosure data, historical stock prices, and naïve mirroring strategies, we evaluate whether insider transactions yield above-market returns, even when executed at *report-date* prices rather than the true trade date.
 
 This README summarizes the project motivation, datasets, exploratory analyses, and modeling framework.  
